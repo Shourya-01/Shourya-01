@@ -1,6 +1,6 @@
 # 👋 Welcome
 
-<img align="right" width="300" height="300" src="shourya.jpg">
+<img align="right" width="300" height="300" src="me.jpg">
 
 
 [![](https://img.shields.io/badge/-@Shourya_01-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/Shourya_01)
