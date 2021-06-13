@@ -1,10 +1,10 @@
-# 👋 Welcome
-
+# <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> Welcome
 <img align="right" width="300" height="300" src="me.jpg">
 
 
 [![](https://img.shields.io/badge/-@Shourya_01-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/Shourya_01)
 [![](https://img.shields.io/badge/-@Shourya_01-%23181717?style=flat-square&logo=github)](https://github.com/Shourya-01)
+[![](https://img.shields.io/badge/-@shouryasingh_01-D7008A?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/shouryasingh_01/)
 
 Hello, there I am **Shourya Singh** currently first year computer science under-grad at [KLE Technology University](https://www.kletech.ac.in/). 
 
